@@ -29,4 +29,4 @@ dotnet test
 License
 -------
 
-License: MIT
+Ryan Alba
